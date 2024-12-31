@@ -1,0 +1,157 @@
+html{
+    background-color: #292b35;
+    background-size: cover;
+}
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #64d0fa;
+    font-size: 3.5rem;
+}
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #292b35;
+    font-size: 2rem;
+}
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #292b35;
+    font-size: 1rem;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+.button1{
+    background:    yellow;
+    border-radius: 11px;
+    width:         7em;
+    height:        3.4em;
+    color:         #292b35;
+    display:       inline-block;
+    font:          normal bold 1.875em/3.4em "Roboto", sans-serif;
+    text-align:    center;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.2s ease;
+}
+.button1:hover{
+    background-color: #64d0fa;
+}
+.button1:active{
+    box-shadow: 7px 7px 7px 7px rgba(252, 58, 178, 0.801); 
+}
+.button2{
+    background:    rgb(241, 41, 41);
+    border-radius: 11px;
+    width:         7em;
+    height:        3.4em;
+    color:         #292b35;
+    display:       inline-block;
+    font:          normal bold 1.875em/3.4em "Roboto", sans-serif;
+    text-align:    center;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.2s ease;
+}
+.button2:hover{
+    background-color: #64d0fa;
+}
+.button2:active{
+    box-shadow: 7px 7px 7px 7px rgba(252, 58, 178, 0.801);
+}
+.button3{
+    background:    rgb(58, 252, 84);
+    border-radius: 11px;
+    width:         7em;
+    height:        3.4em;
+    color:         #292b35;
+    display:       inline-block;
+    font:          normal bold 1.875em/3.4em "Roboto", sans-serif;
+    text-align:    center;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.2s ease;
+}
+.button3:hover{
+    background-color: #64d0fa;
+}
+.button3:active{
+box-shadow: 7px 7px 7px 7px rgba(252, 58, 178, 0.801);
+}
+.button4{
+    background:    rgb(101, 104, 255);
+    border-radius: 11px;
+    width:         7em;
+    height:        3.4em;
+    color:         #292b35;
+    display:       inline-block;
+    font:          normal bold 1.875em/3.4em "Roboto", sans-serif;
+    text-align:    center;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.2s ease;
+}
+.button4:hover{
+    background-color: #64d0fa;
+}
+.button4:active{
+    box-shadow: 7px 7px 7px 7px rgba(252, 58, 178, 0.801);
+}
+.button5{
+    background:    rgb(179, 25, 226);
+    border-radius: 11px;
+    width:         7em;
+    height:        3.4em;
+    color:         #292b35;
+    display:       inline-block;
+    font:          normal bold 1.875em/3.4em "Roboto", sans-serif;
+    text-align:    center;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.2s ease;
+}
+.button5:hover{
+    background-color: #64d0fa;
+}
+.button5:active{
+    box-shadow: 7px 7px 7px 7px rgba(252, 58, 178, 0.801);
+}
+.button6{
+    background:    orange;
+    border-radius: 11px;
+    width:         7em;
+    height:        3.4em;
+    color:         #292b35;
+    display:       inline-block;
+    font:          normal bold 1.875em/3.4em "Roboto", sans-serif;
+    text-align:    center;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.2s ease;
+}
+.button6:hover{
+    background-color: #64d0fa;
+}
+.button6:active{
+    box-shadow: 7px 7px 7px 7px rgba(252, 58, 178, 0.801);
+}
+.button{
+    background:    #64d0fa;
+    border-radius: 11px;
+    width:         7em;
+    height:        3.4em;
+    color:         #292b35;
+    display:       inline-block;
+    font:          normal bold 1.875em/3.4em "Roboto", sans-serif;
+    text-align:    center;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.2s ease;
+}
+.button:hover{
+    background-color: rgba(252, 58, 178, 0.801);
+}
+.button:active{
+    box-shadow: 7px 7px 7px 7px rgba(112, 108, 111, 0.801); 
+}
+  
